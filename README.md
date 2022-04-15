@@ -10,7 +10,7 @@ Simple command output list chmod numeric permissions.
 ## Usage
 - `lse`
 
-![image](https://user-images.githubusercontent.com/54067600/163623910-01bf4224-faca-457f-9325-eb18b6ed03e7.png)
+![image](https://user-images.githubusercontent.com/54067600/163624009-0f4c5775-c9e1-45be-9233-a275bc451f83.png)
 
 
 ## Project Status
